@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  unittest1.cpp
+     Creating library C:\Users\cdshum\Documents\temp\Binomial\Debug\Binomial_UnitTest.lib and object C:\Users\cdshum\Documents\temp\Binomial\Debug\Binomial_UnitTest.exp
+unittest1.obj : error LNK2019: unresolved external symbol "int __cdecl CRRBinomialTree(enum CALL_PUT,enum AMER_EURO,double,double,double,double,double,int,double *)" (?CRRBinomialTree@@YAHW4CALL_PUT@@W4AMER_EURO@@NNNNNHPAN@Z) referenced in function "public: void __thiscall Binomial_UnitTest::Binomial::AP(void)" (?AP@Binomial@Binomial_UnitTest@@QAEXXZ)
+C:\Users\cdshum\Documents\temp\Binomial\Debug\Binomial_UnitTest.dll : fatal error LNK1120: 1 unresolved externals
