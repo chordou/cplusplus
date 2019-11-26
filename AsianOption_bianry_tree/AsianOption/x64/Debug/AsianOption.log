@@ -1,0 +1,8 @@
+﻿  BinomialPrice.cpp
+C:\Users\cqiuac\Documents\MAFS5240\HW_AsianOption\AsianOption\BinomialPrice.cpp(60,46): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\cqiuac\Documents\MAFS5240\HW_AsianOption\AsianOption\BinomialPrice.cpp(74,54): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\cqiuac\Documents\MAFS5240\HW_AsianOption\AsianOption\BinomialPrice.cpp(106,30): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  testDriver.cpp
+  Generating Code...
+C:\Users\cqiuac\Documents\MAFS5240\HW_AsianOption\AsianOption\BinomialPrice.cpp(108,32): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  AsianOption.vcxproj -> C:\Users\cqiuac\Documents\MAFS5240\HW_AsianOption\x64\Debug\AsianOption.exe
